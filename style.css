@@ -1,0 +1,41 @@
+* {
+    border: 1px solid red;
+}
+
+.wrapper {
+    background-color: black;
+    height: 100vh;
+}
+.header {
+}
+.content {
+    width: 1440px;
+    margin: auto;
+}
+.header__row {
+    display: flex;
+}
+.header__info {
+    display: flex;
+}
+.header__logo {
+}
+.header__name {
+}
+.header__address {
+}
+.header__burger {
+    flex-basis: 85px;
+}
+.header__contact {
+}
+.header__cart {
+}
+.header__cart-counter {
+}
+.header__contact-btn {
+}
+.main {
+}
+.footer {
+}
